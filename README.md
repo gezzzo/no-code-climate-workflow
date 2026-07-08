@@ -1,8 +1,12 @@
-# Climate Data Analysis Platform
+# Climate Data Analysis Tool
 
-Full-stack platform for climate researchers to upload, explore, analyze, and visualize climate datasets without writing code.
+Full-stack platform for climate researchers to upload, explore, analyze, and visualize climate datasets without writing code for my thesis
 
-User-facing documentation: [docs/USER_RESEARCH_GUIDE.md](/Users/mohammedmostafa/Projects/climate-tool-individual/docs/USER_RESEARCH_GUIDE.md)
+User-facing documentation: [docs/USER_RESEARCH_GUIDE.md](/docs/USER_RESEARCH_GUIDE.md)
+
+## Supervisor : Prof. Ducco Roccuni
+GitHub link: https://github.com/ducciorocchini
+
 
 ## Features
 
