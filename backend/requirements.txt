@@ -1,0 +1,16 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+python-multipart==0.0.20
+pandas==2.3.2
+numpy==2.2.6
+xarray==2025.3.1
+netCDF4==1.7.2
+cfgrib==0.9.15.1
+eccodes==2.44.0
+rasterio==1.4.3
+geopandas==1.1.1
+scikit-learn==1.7.1
+openpyxl==3.1.5
+pyarrow==21.0.0
+reportlab==4.4.3
+pydantic-settings==2.10.1
