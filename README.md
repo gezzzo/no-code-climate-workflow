@@ -1,6 +1,6 @@
 # Climate Data Analysis Tool
 
-Full-stack platform for climate researchers to upload, explore, analyze, and visualize climate datasets without writing code for my thesis
+Full-stack Tool for climate researchers to upload, explore, analyze, and visualize climate datasets without writing code for my thesis
 
 User-facing documentation: [docs/USER_RESEARCH_GUIDE.md](/docs/USER_RESEARCH_GUIDE.md)
 
