@@ -2,11 +2,11 @@
 
 Full-stack Tool for climate researchers to upload, explore, analyze, and visualize climate datasets without writing code for my thesis
 
-User-facing documentation: [docs/USER_RESEARCH_GUIDE.md](/docs/USER_RESEARCH_GUIDE.md)
 
 ## Supervisor : Prof. Ducco Roccuni
 GitHub link: https://github.com/ducciorocchini
 
+User-facing documentation: [docs/USER_RESEARCH_GUIDE.md](/docs/USER_RESEARCH_GUIDE.md)
 
 ## Features
 
